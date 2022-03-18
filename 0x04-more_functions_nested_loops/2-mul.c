@@ -4,7 +4,7 @@
 *mul - multiple two ints
 *@a: integer
 *@b: integer
-*return: product
+*Return: product
 */
 
 int mul(int a, int b){
