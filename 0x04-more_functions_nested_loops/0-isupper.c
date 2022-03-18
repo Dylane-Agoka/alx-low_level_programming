@@ -17,5 +17,5 @@ int _isupper(int c){
         }
     }
 
-    return isupper;
+    return (isupper);
 }
