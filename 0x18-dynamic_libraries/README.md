@@ -1,1 +1,2 @@
-This repository contains project 0x18-dynamic_libraries
+# Dynamic libraries
+Project done during Full Stack Software Engineering studies at Alx School. It aims to learn about dynamic and shared libraries in C language.
