@@ -1,15 +1,25 @@
- #include "main.h"
+#include <stdio.h>
+#include "main.h"
 /**
- *_strlen - returns the length of a string
- * @s: string
- *Return: returns lenght;
+ * _strlen - prints the length of a string
+ * @s: a pointer to an array string
+ * Task 2 This report, by its very length, defends
+ * itself against the risk of being read
+ *
+ * Copyright © 2022 baccrie
+ * Return: string length
  */
+
 int _strlen(char *s)
 {
-int count, inc;
-inc = 0;
-for (count = 0; s[count] != '\0'; count++)
-inc++;
+	/* Declaring a variable for the number of the times the program loops */
+	int i;
 
-return (inc);
+	i = 0;
+	while (s[i])
+	{
+		i++;
+	}
+	return (i);
+	/* Copyright © 2022 baccrie */
 }
