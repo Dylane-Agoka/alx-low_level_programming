@@ -1,1 +1,2 @@
-0x1A-hash_tables
+# 0x1A. C - Hash tables
+Project of C, about Hash Tables.
